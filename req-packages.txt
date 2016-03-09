@@ -24,3 +24,4 @@ trac==1.0.9
 psycopg2==2.6.1
 pygments==2.1.2
 uwsgi==2.0.12
+django-grappelli==2.8.1
