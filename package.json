@@ -1,0 +1,23 @@
+{
+  "name": "mv2-react-client",
+  "version": "0.0.0",
+  "private": true,
+
+  "dependencies": {
+    "react": "0.14.6",
+    "react-dom": "0.14.6",
+    "react-addons-pure-render-mixin": "0.14.6",
+    "history": "1.17.0",
+    "react-router": "1.0.3",
+    "lodash": "4.0.0",
+    "reactify": "1.1.1"
+  },
+
+  "scripts": {
+    "watch": "watchify components/router.jsx -t reactify -d -v -o ../frontend/core/static/react-client/build.js",
+    "buildjs": "NODE_ENV=production browserify -t reactify components/router.jsx | uglifyjs -cm > ../frontend/core/static/react-client/build.min.js",
+    "collectstatic": "django-admin.py collectstatic --noinput",
+    "build_time": "nodejs set_last_build_time.js",
+    "build": "npm run buildjs && npm run collectstatic && npm run build_time"
+  }
+}
