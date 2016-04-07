@@ -8,7 +8,7 @@ django-rosetta==0.7.10
 django-import-export==0.4.3
 djangorestframework==3.3.2
 markdown==2.6.5
-django-filter==0.12.0
+djangorestframework-filters==0.8.0
 django-cleanup==0.4.2
 unidecode==0.04.19
 click==6.3
