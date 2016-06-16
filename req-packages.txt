@@ -26,3 +26,4 @@ uwsgi==2.0.12
 django-grappelli==2.8.1
 django-compressor==2.0
 ipython==4.2.0
+num2words==0.5.3
