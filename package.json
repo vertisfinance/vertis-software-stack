@@ -13,7 +13,8 @@
     "reactify": "1.1.1",
     "browserify": "13.0.0",
     "watchify": "3.7.0",
-    "uglify-js": "2.6.1"
+    "uglify-js": "2.6.1",
+    "react-input-mask": "0.7.5"
   },
 
   "scripts": {
