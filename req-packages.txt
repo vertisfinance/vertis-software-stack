@@ -1,3 +1,4 @@
+# vertis-software-stack
 Django==1.9.8
 psycopg2==2.6.2
 pytz==2016.6.1
