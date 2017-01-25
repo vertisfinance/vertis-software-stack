@@ -4,6 +4,6 @@ psycopg2==2.6.2
 django-debug-toolbar==1.5
 markdown==2.6.6
 django-extensions==1.7.4
-django-auditlog==0.4.0
+django-auditlog==0.4.1
 XlsxWriter==0.9.3
 django-sql-explorer==1.0
