@@ -14,7 +14,7 @@
     "browserify": "13.0.0",
     "watchify": "3.7.0",
     "uglify-js": "2.6.1",
-    "react-input-mask": "0.7.5"
+    "react-input-mask": "0.7.5",
     "decimal.js": "7.1.1"
   },
 
