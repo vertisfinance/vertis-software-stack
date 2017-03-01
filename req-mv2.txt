@@ -1,4 +1,4 @@
-Django==1.9.8
+Django==1.9.9
 psycopg2==2.6.2
 pytz==2016.6.1
 beatboxxx==21.5
@@ -34,4 +34,6 @@ setuptools==28.2.0
 textile==2.3.3
 django-auditlog==0.4.0
 XlsxWriter==0.9.3
-
+coverage==3.6
+pyodbc==3.0.10
+django-pyodbc-azure==1.9.9.0
