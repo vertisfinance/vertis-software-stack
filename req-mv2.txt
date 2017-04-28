@@ -41,3 +41,4 @@ unidecode==0.04.20
 django-user-activity-log==0.0.15
 django-rest-auth==0.9.1
 drf-dynamic-fields==0.2.0
+django-rest-swagger==2.1.1
