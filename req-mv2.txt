@@ -11,7 +11,7 @@ markdown==2.6.8
 djangorestframework-filters==0.9.1
 django-cleanup==0.4.2
 unidecode==0.04.19
-clik==6.7
+click==6.7
 pyOpenSSL==16.2.0
 service-identity==16.0.0
 Twisted==15.5.0
