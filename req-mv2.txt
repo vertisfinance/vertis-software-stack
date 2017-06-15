@@ -45,3 +45,4 @@ django-dirtyfields==1.2.1
 sphinx==1.5.5
 mailchimp3==2.0.11
 sphinx_rtd_theme==0.2.4
+django-smart-selects==1.5.2
