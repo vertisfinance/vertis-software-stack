@@ -17,6 +17,7 @@
     "uglify-js": "2.8.22",
     "react-input-mask": "0.7.7",
     "decimal.js": "7.1.1",
-    "throttle-debounce": "1.0.1"
+    "throttle-debounce": "1.0.1",
+    "npm": "4.6.1"
   }
 }
