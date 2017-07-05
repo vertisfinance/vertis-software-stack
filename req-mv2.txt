@@ -9,7 +9,6 @@ django-import-export==0.5.1
 djangorestframework==3.6.2
 markdown==2.6.8
 djangorestframework-filters==0.9.1
-django-cleanup==0.4.2
 click==6.7
 pyOpenSSL==16.2.0
 service-identity==16.0.0
