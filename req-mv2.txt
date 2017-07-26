@@ -1,6 +1,5 @@
 Django==1.11.1
 psycopg2==2.7
-pytz==2016.10
 beatboxxx==21.5
 django-debug-toolbar==1.8
 django-extensions==1.7.9
