@@ -2,7 +2,7 @@ uwsgi==2.0.15
 django==1.11.4
 psycopg2==2.7.3
 django-debug-toolbar==1.8
-markdown==2.6.7
+markdown==2.6.8
 django-extensions==1.8.1
 django-auditlog==0.4.3
 XlsxWriter==0.9.8
