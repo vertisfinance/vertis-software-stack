@@ -1,13 +1,12 @@
-Django==1.11.1
-psycopg2==2.7
-beatboxxx==21.5
+django==1.11.3
+psycopg2==2.6.2
 django-debug-toolbar==1.8
 django-extensions==1.7.9
 django-rosetta==0.7.13
 django-import-export==0.5.1
 djangorestframework==3.6.2
 markdown==2.6.8
-djangorestframework-filters==0.9.1
+djangorestframework-filters==0.10.0
 click==6.7
 pyOpenSSL==16.2.0
 service-identity==16.0.0
@@ -16,7 +15,6 @@ pycrypto==2.6.1
 Mako==1.0.6
 python-dateutil==2.6.0
 txsockjs==1.2.2
-trac==1.2
 pygments==2.2.0
 uwsgi==2.0.14
 django-grappelli==2.9.1
@@ -26,9 +24,6 @@ num2words==0.5.4
 django-sql-explorer==1.1.1
 django-inlinecss==0.1.2
 django-related-admin==0.5.0
-TracThemeEngine==2.2.2
-setuptools==34.3.1
-textile==2.3.6
 django-auditlog==0.4.3
 XlsxWriter==0.9.6
 coverage==4.4
