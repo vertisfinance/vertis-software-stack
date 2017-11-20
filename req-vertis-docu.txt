@@ -1,9 +1,9 @@
 uwsgi==2.0.15
-django==1.11.4
-psycopg2==2.7.3
-django-debug-toolbar==1.8
-markdown==2.6.8
-django-extensions==1.8.1
-django-auditlog==0.4.3
-XlsxWriter==0.9.8
+django==1.11.7
+psycopg2==2.7.3.2
+django-debug-toolbar==1.9.1
+markdown==2.6.9
+django-extensions==1.9.1
+django-auditlog==0.4.4
+XlsxWriter==1.0.2
 django-sql-explorer==1.1.1
