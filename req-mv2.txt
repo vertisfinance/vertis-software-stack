@@ -25,7 +25,7 @@ num2words==0.5.4
 django-sql-explorer==1.1.1
 django-inlinecss==0.1.2
 django-related-admin==0.5.0
-django-auditlog==0.4.3
+django-auditlog==0.4.5
 XlsxWriter==0.9.6
 coverage==4.4
 pyodbc==4.0.13
