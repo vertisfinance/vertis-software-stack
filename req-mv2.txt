@@ -44,3 +44,5 @@ django-decorator-include==1.4
 xmlsec==1.3.3
 py-wsse==0.1
 django-vinaigrette==1.1.1
+django-import-export==0.7.0
+django-filter==1.1
