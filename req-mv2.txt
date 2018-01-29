@@ -46,3 +46,4 @@ xmlsec==1.3.3
 py-wsse==0.1
 django-decorator-include==1.4
 django-vinaigrette==1.1.1
+django-auditlog==0.4.5
