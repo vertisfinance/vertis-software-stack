@@ -6,3 +6,4 @@
 - django-decorator-include
 - django-grappelli
 - django-pyodbc-azure
+- ipython
