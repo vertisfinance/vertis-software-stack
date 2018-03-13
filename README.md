@@ -5,3 +5,4 @@
 *python3*
 - django-decorator-include
 - django-grappelli
+- django-pyodbc-azure
