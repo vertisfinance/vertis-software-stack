@@ -7,6 +7,3 @@
 - django-grappelli
 - django-pyodbc-azure
 - ipython
-
-*Require MQ replacement or improvement*
-- Twisted
