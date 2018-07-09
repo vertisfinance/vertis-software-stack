@@ -10,3 +10,4 @@ django-widget-tweaks==1.4.2
 django-mailer==1.2.4
 periodtask==0.4.2
 coltab==1.0.1
+django-extensions==2.0.7
