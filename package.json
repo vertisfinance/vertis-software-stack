@@ -21,6 +21,8 @@
     "recharts": "1.0.0-apha.5",
     "react-number-format": "3.3.0",
     "react-phone-number-input": "1.1.6",
-    "npm": "4.6.1"
+    "npm": "4.6.1",
+    "react-table": "6.8.5",
+    "prop-types": "15.6.2"
   }
 }
