@@ -8,6 +8,6 @@ django-debug-toolbar==1.9.1
 requests==2.18.4
 django-widget-tweaks==1.4.2
 django-mailer==1.2.4
-periodtask==0.4.2
+periodtask==0.5.2
 coltab==1.0.1
 django-extensions==2.0.7
