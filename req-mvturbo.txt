@@ -11,3 +11,4 @@ django-mailer==1.2.4
 periodtask==0.5.2
 coltab==1.0.1
 django-extensions==2.0.7
+django-filter==2.0.0.dev1
