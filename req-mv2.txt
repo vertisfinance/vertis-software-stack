@@ -42,3 +42,6 @@ py-wsse==0.1
 django-decorator-include==1.4
 django-vinaigrette==1.1.1
 django-auditlog==0.4.5
+channels==2.1.2
+channels_redis==2.2.1
+periodtask==0.4.3
