@@ -15,7 +15,7 @@ django-sql-explorer==1.1.1
 premailer==3.2.0
 mock==2.0.0
 django-related-admin==0.5.0
-Twisted==17.9.0
+Twisted==18.7.0
 python-dateutil==2.7.0
 XlsxWriter==1.0.2
 uwsgi==2.0.17
