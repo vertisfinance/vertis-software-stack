@@ -45,3 +45,4 @@ django-auditlog==0.4.5
 channels==2.1.2
 channels_redis==2.2.1
 periodtask==0.5.4
+django-multiselectfield==0.1.8
