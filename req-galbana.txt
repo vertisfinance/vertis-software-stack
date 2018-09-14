@@ -1,0 +1,10 @@
+dumb-init==1.2.1
+elasticsearch==6.2.0
+djangorestframework==3.7.7
+unicodecsv==0.14.1
+django-decorator-include==1.4
+django-debug-toolbar==1.9.1
+django-extensions==2.0.3
+elasticsearch-dsl==6.1.0
+django-inlinecss==0.1.2
+coverage==4.5.1
