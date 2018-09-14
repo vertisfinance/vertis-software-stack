@@ -1,0 +1,5 @@
+uwsgi==2.0.14
+django==1.11.3
+psycopg2==2.7.3
+django-debug-toolbar==1.7
+ldap3==2.2.4
