@@ -12,7 +12,7 @@ django-compressor==2.2
 django-related-admin==0.5.0
 django-user-activity-log2==0.0.21
 django-auditlog==0.4.5
-periodtask==0.5.4
+periodtask==0.5.5
 django-smart-selects==1.5.4
 djangorestframework-filters==0.10.2
 django-sql-explorer==1.1.1
