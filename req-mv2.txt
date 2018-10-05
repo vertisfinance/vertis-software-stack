@@ -15,7 +15,7 @@ django-auditlog==0.4.5
 periodtask==0.5.5
 django-smart-selects==1.5.4
 djangorestframework-filters==0.10.2
-django-sql-explorer==1.1.1
+django-sql-explorer==1.1.2
 django-grappelli==2.10.1
 django-rosetta==0.8.1
 django-debug-toolbar==1.9.1
