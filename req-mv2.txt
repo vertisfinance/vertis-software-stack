@@ -1,10 +1,10 @@
-django==1.11.11
+uwsgi==2.0.17.1
+django==2.0.8
 psycopg2-binary==2.7.5
-uwsgi==2.0.17
 Twisted[tls,http2]==18.7.0
-channels==2.1.2
-channels_redis==2.2.1
-django-extensions==2.0.3
+channels==2.1.3
+channels_redis==2.3.0
+django-extensions==2.1.3
 django-vinaigrette==1.1.1
 djangorestframework==3.7.7
 django-rest-auth==0.9.3
@@ -16,7 +16,7 @@ periodtask==0.5.5
 django-smart-selects==1.5.4
 djangorestframework-filters==0.10.2
 django-sql-explorer==1.1.2
-django-grappelli==2.10.1
+django-grappelli==2.11.1
 django-rosetta==0.8.1
 django-debug-toolbar==1.9.1
 django-resized==0.3.9
@@ -26,7 +26,6 @@ django-dirtyfields==1.3.1
 num2words==0.5.6
 django-filter==2.0.0
 XlsxWriter==1.0.2
-mock==2.0.0
 python-dateutil==2.7.0
 coverage==4.5.1
 Scrapy==1.5.0
@@ -40,8 +39,8 @@ django-debug-toolbar-request-history==0.0.7
 sphinx==1.7.1
 sphinx_rtd_theme==0.2.4
 ipython==5.5.0
-pyodbc==4.0.22
-django-pyodbc-azure==1.11.0.0
+pyodbc==4.0.24
+django-pyodbc-azure==2.0.8.0
 xmlsec==1.3.3
 py-wsse==0.1
 django-multiselectfield==0.1.8
