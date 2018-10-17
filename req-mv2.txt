@@ -1,7 +1,7 @@
 uwsgi==2.0.17.1
 django==2.1.2
 psycopg2-binary==2.7.5
-Twisted[tls,http2]==18.7.0
+Twisted[tls,http2]==18.9.0
 channels==2.1.3
 channels_redis==2.3.1
 django-extensions==2.1.3
@@ -31,7 +31,7 @@ Scrapy==1.5.1
 markupsafe==1.0
 mailchimp3==3.0.6
 factory_boy==2.11.1
-freezegun==0.3.10
+freezegun==0.3.11
 django-decorator-include==2.0
 unidecode==1.0.22
 django-debug-toolbar-request-history==0.0.9
@@ -45,4 +45,4 @@ py-wsse==0.1
 django-multiselectfield==0.1.8
 graphene-django==2.2.0
 graphene-django-optimizer==0.3.5
-periodtask==0.5.5
+periodtask==0.7.0
