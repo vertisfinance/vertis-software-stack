@@ -46,3 +46,4 @@ django-multiselectfield==0.1.8
 graphene-django==2.2.0
 graphene-django-optimizer==0.3.5
 periodtask==0.7.0
+rel2tree==5.0.0
