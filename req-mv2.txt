@@ -50,3 +50,4 @@ rel2tree==5.0.0
 ldap3==2.2.4
 pysftp==0.2.9
 sshpubkeys==3.1.0
+bleach==3.1.0
