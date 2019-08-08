@@ -39,5 +39,6 @@
     "react-bootstrap-dialog": "0.9.1",
     "filesize": "4.1.2",
     "react-day-picker": "7.3.0"
+    "react-simple-maps": "0.12.1"
   }
 }
