@@ -38,7 +38,7 @@
     "react-bootstrap": "v0.30.3",
     "react-bootstrap-dialog": "0.9.1",
     "filesize": "4.1.2",
-    "react-day-picker": "7.3.0"
+    "react-day-picker": "7.3.0",
     "react-simple-maps": "0.12.1"
   }
 }
