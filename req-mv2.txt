@@ -31,7 +31,6 @@ Scrapy==1.5.1
 markupsafe==1.0
 mailchimp3==3.0.6
 factory_boy==2.11.1
-freezegun==0.3.11
 django-decorator-include==2.0
 unidecode==1.0.22
 django-debug-toolbar-request-history==0.0.9
