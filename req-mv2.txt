@@ -47,5 +47,4 @@ graphene-django-optimizer==0.6.0
 periodtask==0.7.0
 ldap3==2.2.4
 bleach==3.1.0
-logging-tree==1.8
 django-jsonfield==1.0.1
