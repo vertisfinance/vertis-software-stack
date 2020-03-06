@@ -22,7 +22,7 @@
     "lodash": "4.17.11",
     "react-input-mask": "0.7.7",
     "decimal.js": "7.1.1",
-    "recharts": "1.0.0-apha.5",
+    "recharts": "1.8.5",
     "react-number-format": "4.0.5",
     "react-phone-number-input": "1.1.6",
     "libphonenumber-js": "1.4.2",
