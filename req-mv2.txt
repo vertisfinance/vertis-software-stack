@@ -44,3 +44,5 @@ periodtask==0.7.0
 ldap3==2.6.1
 bleach==3.1.0
 easy-thumbnails==2.7
+pysftp==0.2.9
+mutagen==1.44.0
