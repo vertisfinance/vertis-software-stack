@@ -40,6 +40,7 @@
     "react-simple-maps": "0.12.1",
     "react-sticky-mouse-tooltip": "0.0.1",
     "react-csv": "1.1.2",
-    "react-tooltip": "4.0.3"
+    "react-tooltip": "4.0.3",
+    "react-component-countdown-timer": "0.1.8"
   }
 }
