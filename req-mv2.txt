@@ -48,3 +48,4 @@ pysftp==0.2.9
 mutagen==1.44.0
 django-ckeditor==5.9.0
 django-silk==4.0.1
+phonenumbers==8.12.15
